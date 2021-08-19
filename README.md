@@ -7,3 +7,5 @@
 - 👯 I’m looking to collaborate on a really really dumb stuff
 - 🤔 I’m looking for help with my problem with dumb stuff
 - 💬 Ask me about dumb st... this is a repetitive joke right ?
+
+![](https://komarev.com/ghpvc/?0xCurtis&color=orange&style=flat-square)
