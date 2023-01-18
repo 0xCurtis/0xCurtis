@@ -1,6 +1,6 @@
 # Hey you 👋
 
-<img align='right' src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="450" />
+<img align='right' src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="425" />
 
 - 📆 20 years old
 - 💻 Studying **@EPITECH**
