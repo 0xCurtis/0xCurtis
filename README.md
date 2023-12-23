@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="425" />
 
-- 📆 20 years old
-- 💻 Studying **@EPITECH**
+- 📆 21 years old
+- 💻 Studying **@EPITECH** & **@Istanbul Teknik University**
 
 ## Connect 🧑‍💼
 
