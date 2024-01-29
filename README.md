@@ -9,8 +9,6 @@
 
 [![Leet Code][l1]][0]
 
-[![Codin Game][l2]][1]
-
 ## Favorite technologies
 <table>
   <tr>
@@ -42,8 +40,6 @@
 
 
 [0]: https://leetcode.com/0cCurtis/
-[1]: https://www.codingame.com/profile/21684e2a084c8260a760b25b1554ef8f3357934
-
 
 [b1]: https://img.shields.io/github/followers/0xCurtis?style=flat-square
 [b2]: https://komarev.com/ghpvc/?username=0xCurtis&style=flat-square
