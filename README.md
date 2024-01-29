@@ -2,7 +2,6 @@
 
 - 📆 21 years old
 - 💻 Studying **@EPITECH** & **@Istanbul Teknik University**
-- 
 <br>
 
 [![Leet Code][l1]][0]
