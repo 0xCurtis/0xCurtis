@@ -1,5 +1,3 @@
-# Hey you 👋
-
 <img align='right' src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="425" />
 
 - 📆 21 years old
