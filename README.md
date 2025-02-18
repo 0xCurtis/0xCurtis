@@ -1,44 +1,94 @@
-<img align='right' src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="425" />
+<div align="center">
+  <img align="right" src="https://media.giphy.com/media/l2Je43PzMqrAzNNm0/giphy.gif" width="425" />
 
-- 📆 22 years old
-<br>
+  # Hi, I'm Curtis!
 
-[![Leet Code][l1]][0]
+  **22 years old | Software Developer**
 
-## Favorite technologies
-<table>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=flat-square "Check my LeetCode")](https://leetcode.com/0cCurtis/)
+  [![CryptoHack](https://img.shields.io/badge/CryptoHack-000000?style=flat-square "Check my CryptoHack")](https://cryptohack.org/0cCurtis/)<br>
+  [![Website](https://img.shields.io/badge/Website-syscall.rest-purple?style=flat-square)](https://syscall.rest)
+</div>
+
+---
+
+## Stack
+<table align="center">
   <tr>
-    <td align="center" width="100px">
-      <a href="https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png"></a>
-      <br>C
+    <th style="text-align: center; padding: 5px;">Category</th>
+    <th style="text-align: center; padding: 5px;">Technologies</th>
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">Software</td>
+    <td style="text-align: center; padding: 10px;">
+      <a href="https://skillicons.dev/?i=c" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=c" alt="C" />
+      </a>
+      &nbsp;
+      <a href="https://skillicons.dev/?i=cpp" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+      </a>
+      &nbsp;
+      <a href="https://skillicons.dev/?i=rust" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+      </a>
     </td>
-    <td align="center" width="100px">
-      <a href="https://github.com/tuvtran/project-based-learning#cc"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png"></a>
-      <br>C++
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">Web</td>
+    <td style="text-align: center; padding: 10px;">
+      <a href="https://skillicons.dev/?i=typescript" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
+      </a>
+      &nbsp;
+      <a href="https://skillicons.dev/?i=svelte" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=svelte" alt="Svelte" />
+      </a>
+      &nbsp;
+      <a href="https://skillicons.dev/?i=react" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=react" alt="React" />
+      </a>
     </td>
-    <td align="center" width="100px">
-      <a href="https://www.python.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"></a>
-      <br>Python
-    </td>
-     <td align="center" width="100px">
-      <a href="https://www.typescriptlang.org/docs/"><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.svg"></a>
-      <br>TypeScript
+  </tr>
+  <tr>
+    <td style="text-align: center; padding: 10px;">Data</td>
+    <td style="text-align: center; padding: 10px;">
+      <a href="https://skillicons.dev/?i=python" target="_blank">
+        <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python" />
+      </a>
     </td>
   </tr>
 </table>
 
-## Statistics 📊
 
-<br>
+---
 
-![][b1]
-![][b2]
+## 🚀 Projects
+
+I've been actively working on **Web3 projects** and developing automation tools including **Telegram SimpleX** & **Discord bots**.
+
+---
 
 
-[0]: https://leetcode.com/0cCurtis/
+## 💻 Environment
 
-[b1]: https://img.shields.io/github/followers/0xCurtis?style=flat-square
-[b2]: https://komarev.com/ghpvc/?username=0xCurtis&style=flat-square
+<div align="center">
 
-[l1]: https://img.shields.io/badge/LeetCode-ffffff?style=flat-square "Check my LeetCode"
-[l2]: https://img.shields.io/badge/-Codingame-F2BB13?style=flat-square "Check my CodinGame"
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Dual Boot OS" />
+    <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Dual Boot OS" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/0xCurtis">
+    <img src="https://img.shields.io/github/followers/0xCurtis?style=flat-square" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/0xCurtis">
+    <img src="https://komarev.com/ghpvc/?username=0xCurtis&style=flat-square" alt="Profile Views" />
+  </a>
+</div>
