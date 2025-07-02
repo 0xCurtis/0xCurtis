@@ -7,7 +7,6 @@
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=flat-square "Check my LeetCode")](https://leetcode.com/0cCurtis/)
   [![CryptoHack](https://img.shields.io/badge/CryptoHack-000000?style=flat-square "Check my CryptoHack")](https://cryptohack.org/0cCurtis/)<br>
-  [![Website](https://img.shields.io/badge/Website-syscall.rest-purple?style=flat-square)](https://syscall.rest)
 </div>
 
 ---
