@@ -3,7 +3,7 @@
 
   # Hi, I'm Curtis!
 
-  **22 years old | Software Developer**
+  **23 years old | Software Developer**
 
   [![LeetCode](https://img.shields.io/badge/LeetCode-ffffff?style=flat-square "Check my LeetCode")](https://leetcode.com/0cCurtis/)
   [![CryptoHack](https://img.shields.io/badge/CryptoHack-000000?style=flat-square "Check my CryptoHack")](https://cryptohack.org/0cCurtis/)<br>
